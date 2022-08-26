@@ -1,8 +1,8 @@
 # 50daysProject
 ## Sharpen my skills by building 50 quick, unique &amp; fun mini projects
 
-Expanding Cards
-Progress Steps
+Expanding Cards;
+Progress Steps;
 Rotating Navigation Animation
 Hidden Search Widget
 Blurry Loading
